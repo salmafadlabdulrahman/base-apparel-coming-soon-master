@@ -30,8 +30,7 @@ Users should be able to:
   - The email address is not formatted correctly
 
 ### Screenshot
-
-![](./screenshot.jpg)
+![Screenshot (453)](https://user-images.githubusercontent.com/88597694/221957435-30f851ba-c66a-4e70-b3c8-293524983c59.png)
 
 
 ### Links
